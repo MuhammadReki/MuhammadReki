@@ -1,3 +1,6 @@
+<!-- Banner -->
+![Banner](img/ppgithubreki.png)
+
 # 👋 Halo, Kenalin nama saya Muhammad Reki, biasa dipanggil Reki atau biasa dipanggil Ki juga boleh.
 
 🎓 Saya Mahasiswa Teknologi Reyakasa Komputer  
