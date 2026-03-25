@@ -56,6 +56,6 @@ Saya adalah pribadi yang cenderung pendiam dan introvert, lebih nyaman dengan me
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuhammadReki&show_icons=true&theme=outrun)](https://github.com/MuhammadReki/Muhammad-Reki.github.io)
 
 ##### Play Game With Me
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/MuhammadReki/MuhammadReki/blob/output/github-snake-dark.svg)
 
 ⭐ Terima kasih sudah berkunjung ke profil GitHub saya
