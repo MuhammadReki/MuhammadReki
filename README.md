@@ -12,7 +12,7 @@
 </div>
 
 
----
+
 
 ## 🧑‍💻 Tentang Saya
 Saya adalah pribadi yang cenderung pendiam dan introvert, lebih nyaman dengan mendengarkan musik dan bermain game serta ngoding. Saya memiliki minat besar dalam pengembangan web dan senang menghabiskan waktu untuk ngoding, mengeksplorasi teknologi baru, dan membuat proyek yang berkualitas.
@@ -58,20 +58,10 @@ Saya adalah pribadi yang cenderung pendiam dan introvert, lebih nyaman dengan me
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuhammadReki&show_icons=true&theme=outrun)](https://github.com/MuhammadReki/Muhammad-Reki.github.io)
 
 ##### Play Game With Me
-<<<<<<< HEAD
-=======
-![snake gif](https://MuhammadReki.github.io/MuhammadReki/github-contribution-grid-snake.gif)
->>>>>>> c281d738eefac0d6eff10462a4d3c257b494aa84
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="img/ocean.gif" alt="Snake animation" />
+</div>
 
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
-
-###
+#
 ⭐ Terima kasih sudah berkunjung ke profil GitHub saya
