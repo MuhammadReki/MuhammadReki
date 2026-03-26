@@ -121,8 +121,7 @@ Saya adalah pribadi yang cenderung pendiam dan introvert, lebih nyaman dengan me
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=MuhammadReki&theme=onedark)](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=flat)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=MuhammadReki&theme=dark_lover)](https://github-profile-trophy.vercel.app/?username=MuhammadReki&theme=dark_lover)
 </div>
 
 ---
