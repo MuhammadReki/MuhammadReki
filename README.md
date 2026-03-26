@@ -121,15 +121,7 @@ Saya adalah pribadi yang cenderung pendiam dan introvert, lebih nyaman dengan me
 
 </div>
 
----
 
-## 🏆 Achievements
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&margin-w=15)](https://github-profile-trophy.vercel.app/?username=ryo-ma&margin-w=15)
-
----
 
 ## 📫 Contact with me
 
@@ -137,7 +129,7 @@ Saya adalah pribadi yang cenderung pendiam dan introvert, lebih nyaman dengan me
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mreki_) 
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@minang.coding)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mreki@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mreki2023@gmail.com)
 
 </div>
 
